@@ -1,10 +1,9 @@
-import Header from "./component/header";
+import Header from "./component/Header/header";
 
 function App() {
   return (
     <div>
-      <Header></Header>
-      <secImg></secImg>
+      <Header ></Header>
     </div>
   );
 }
